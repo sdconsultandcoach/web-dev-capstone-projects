@@ -1,6 +1,12 @@
-# SDCC HTML learning project
+# Technical portfolio
 
-A course-guided static HTML exercise under SD Consult & Coach branding. The repository name is retained for existing links.
+The designated public-facing technical portfolio. Role confirmed October 22, 2026. Its current content is a course-guided static HTML learning example, not yet a complete showcase of independent projects or verified production applications. The repository name is retained for existing links.
+
+## Portfolio development
+
+Add projects as they are completed and checked. For each, document the problem, technologies, actual personal contribution, tutorial or other assistance, how to run it, verification performed, limitations, and next steps. Distinguish course exercises from independently developed or client work. Include client work only when publication is permitted. Do not publish private course notes or third-party course resources.
+
+The intended future portfolio domain is creativesdconsulting.com. No domain connection or live deployment has been configured or verified in this documentation update.
 
 ## Attribution
 
