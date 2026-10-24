@@ -6,7 +6,9 @@ The designated public-facing technical portfolio. Role confirmed October 22, 202
 
 Add projects as they are completed and checked. For each, document the problem, technologies, actual personal contribution, tutorial or other assistance, how to run it, verification performed, limitations, and next steps. Distinguish course exercises from independently developed or client work. Include client work only when publication is permitted. Do not publish private course notes or third-party course resources.
 
-The intended future portfolio domain is creativesdconsulting.com. No domain connection or live deployment has been configured or verified in this documentation update.
+GitHub is the public technical portfolio for application links and evidence of completed work. A separate portfolio domain has not been selected.
+
+The purpose of creativesdconsulting.com remains undecided. One possibility is an out-of-the-box development-services offering. Its services, scope, platform, and launch plan have not been established; it is not a confirmed portfolio domain. No domain connection or deployment is claimed.
 
 ## Attribution
 
